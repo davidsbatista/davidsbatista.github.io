@@ -1,25 +1,41 @@
 ---
 layout: page
-title: About the Theme
+title: David S. Batista
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
-image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+comments: false
+share: false
+#image:
+#  feature: sample-image-2.jpg
+#  credit: WeGraphics
+#  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+I'm a software developer with experience in Information Extraction, Information Retrieval, Natural Language Processing and how Machine Learning can be used to solve specific problems from these areas.
 
-## Minimal Mistakes is all about:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+Currently I'm a researcher at INESC-ID and a I'm Ph.D. candidate at Instituto Superior Técnico under the supervision of Professor Mário Jorge Gaspar da Silva. 
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+
+My thesis deals with semantic relationship extraction from large document collections. My approach consists of using a supervised on-line classifier based on min-hash and locality sensitive hashing. The training data for this classifier is gathered by a bootstrapping approach relying on distributional word representations (i.e. word2vec).
+
+<!--
+#Programming Languages
+• Java
+• Python
+• Bash shell scripting
+
+#Databases / Full-Text Search Engines / Graph-Databases / NoSQL
+• MySQL
+• PostgreSQL
+• Apache Lucene / Solr
+• Neo4j
+• Redis
+
+
+#Software Tools for NLP, IE, IR and Machine Learning
+• Python: Natural Language Toolkit (NLTK), Scikit-Learn, Gensim
+• Stanford CoreNLP
+• Apache OpenNLP
+• LingPipe
+-->

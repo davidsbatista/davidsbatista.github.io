@@ -26,10 +26,11 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  name: David S Batista
+  avatar: me.jpg
+  bio: Information Extraction, Information Retrieval, Natural Language Processing and Machine Learning, PhD candidate (expected 2015)
+  email: dsbatista@inesc-id.pt
+  gscholar: -tRNGd0AAAAJ
   disqus-shortname: 
   twitter: #username
   facebook: #username
@@ -40,9 +41,9 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: davidsbatista
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: dsbatista
   xing: #username
   instagram: #username
   lastfm: #username
