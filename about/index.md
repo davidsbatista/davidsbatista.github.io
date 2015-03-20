@@ -11,7 +11,7 @@ share: false
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-I did both my B.Sc. and M.Sc. at the [Faculty of Sciences], [University of Lisbon], between 2005 and 2006 I did two semesters asan exchange student at the [Karlsruhe Institute of Technology (KIT)] (former Universität Karlsruhe) under the Erasmus program.
+I did both my B.Sc. and M.Sc. at the [Faculty of Sciences], [University of Lisbon], between 2005 and 2006 I did two semesters as an exchange student at the [Karlsruhe Institute of Technology (KIT)] (former Universität Karlsruhe) under the Erasmus program.
 
 
 My [master thesis (in portuguese)] research was done at the [XLDB] research group, where I developed an information extraction system,  which generates a geographic summary for documents in Portuguese. The summary lists the geographic named-entities in a document, disambiguated and linked to a geographic ontology. The system was applied to a crawl of the Portuguese Web using a Hadoop cluster.
