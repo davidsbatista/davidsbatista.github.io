@@ -16,7 +16,7 @@ title: David S. Batista
 I'm a software developer with experience and interested in Information Extraction, Information Retrieval, Natural Language Processing and how Machine Learning can be used to solve specific problems from these areas.
 
 
-Currently I'm a researcher at [INESC-ID] and a I'm Ph.D. candidate at [Instituto Superior Técnico] under the supervision of [Professor Mário Jorge Gaspar da Silva]. 
+Currently I'm a researcher at [INESC-ID] and a Ph.D. candidate at [Instituto Superior Técnico] under the supervision of [Professor Mário Jorge Gaspar da Silva]. 
 
 
 My thesis deals with semantic relationship extraction from large document collections. My approach consists of using a supervised on-line classifier based on min-hash and locality sensitive hashing. The training data for this classifier is gathered by a bootstrapping approach relying on distributional word representations (i.e. word2vec).
