@@ -7,4 +7,4 @@ share: false
 ---
 
 ## Publications
-{% include publications.html url="../" %}
+{% include publications.html %}
