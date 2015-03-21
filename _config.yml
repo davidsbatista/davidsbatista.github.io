@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: David S. Batista
   avatar: me.jpg
-  bio: Information Extraction, Information Retrieval, Natural Language Processing and Machine Learning, PhD candidate (expected 2015)
+  #bio: Information Extraction Information Retrieval Natural Language Processing Machine Learning
   email: dsbatista@inesc-id.pt
   gscholar: -tRNGd0AAAAJ
   disqus-shortname: 
