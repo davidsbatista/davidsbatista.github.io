@@ -8,3 +8,4 @@ share: false
 
 ## Publications
 {% include publications.html %}
+{% include publications_bib.html %}
