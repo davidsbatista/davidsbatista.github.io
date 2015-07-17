@@ -16,7 +16,7 @@ I graduated from [Faculty of Sciences], [University of Lisbon], and between 2005
 After graduation, and before I starting my master, I worked as a software developer for [Nokia Siemens Networks].
 
 My [master thesis (in portuguese)] done at the [XLDB], consisted in developing an information extraction system, which generates geographic summaries.
-Each summary lists geographic entities found in a document linked (i.e., disambiguated) to a geographic ontology. The system was applied to a [crawl of the Portuguese Web] using a Hadoop cluster.
+Each summary lists geographic entities found in a document linked (i.e., disambiguated) to a [geographic ontology]. The system was applied to a [crawl of the Portuguese Web] using a Hadoop cluster.
 
 [Nokia Siemens Networks]: https://networks.nokia.com/
 [crawl of the Portuguese Web]: http://dmir.inesc-id.pt/project/WPT_05_in_English
@@ -28,3 +28,4 @@ Each summary lists geographic entities found in a document linked (i.e., disambi
 [Faculty of Sciences]: http://www.fc.ul.pt/en/
 [University of Lisbon]: http://www.ulisboa.pt
 [XLDB]: http://xldb.fc.ul.pt/
+[geographic ontology]: http://dmir.inesc-id.pt/project/Geo-Net-PT_02
