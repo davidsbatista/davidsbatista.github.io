@@ -28,4 +28,4 @@ Each summary lists geographic entities found in a document linked (i.e., disambi
 [Faculty of Sciences]: http://www.fc.ul.pt/en/
 [University of Lisbon]: http://www.ulisboa.pt
 [XLDB]: http://xldb.fc.ul.pt/
-[geographic ontology]: http://dmir.inesc-id.pt/project/Geo-Net-PT_02
+[geographic ontology]: http://dmir.inesc-id.pt/project/Geo-Net-PT_02_in_English
