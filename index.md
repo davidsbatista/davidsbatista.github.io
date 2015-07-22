@@ -13,7 +13,9 @@ title: About myself
 </figure>
 -->
 
-I'm a computer science researcher at [INESC-ID],  I love to play with data and extract knowledge from large volumes of datasets being structured or unstructured. I'm interested in the following research topics:
+I'm a computer science researcher at [INESC-ID],  I love to play with data and extract knowledge from large volumes of datasets, be they structured or unstructured, text or numbers.
+
+I'm interested in the following research topics:
 
 * Natural Language Processing
 * Machine Learning
