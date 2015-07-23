@@ -22,7 +22,7 @@ I'm interested in the following research topics:
 * Information Extraction
 * Big Data
 
-I'm also a Ph.D. candidate at [Instituto Superior Técnico] under the supervision of [Professor Mário Jorge Gaspar da Silva]. My thesis deals with large-scale [semantic relationship extraction] from document collections (e.g., newspapers archieves, scientific articles).
+I'm also a Ph.D. candidate at [Instituto Superior Técnico] under the supervision of [Professor Mário Jorge Gaspar da Silva]. My thesis deals with large-scale [semantic relationship extraction] from document collections (e.g., newspapers archives, scientific articles).
 
 My proposal consists of extracting relationships with an [on-line supervised classifier] based on [min-hash] and [locality sensitive hashing], and generating training data for this classifier by a bootstrapping approach relying on distributional word representations (i.e. [word embeddings]).
 
