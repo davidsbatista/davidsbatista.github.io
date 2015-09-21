@@ -13,7 +13,7 @@ title: About myself
 </figure>
 -->
 
-I'm a computer science researcher at [INESC-ID],  I love to play with data and extract knowledge from large volumes of datasets, be they structured or unstructured, text or numbers.
+I'm a computer science researcher at [INESC-ID],  I love to play with data and extract knowledge from large volumes of datasets, be they structured or unstructured, text or numbers. You can see my [Curriculum Vitae] for more details. 
 
 I'm interested in the following research topics:
 
@@ -34,3 +34,5 @@ My proposal consists of extracting relationships with an [on-line supervised cla
 [locality sensitive hashing]: https://en.wikipedia.org/wiki/Locality-sensitive_hashing
 [semantic relationship extraction]: https://en.wikipedia.org/wiki/Relationship_extraction
 [on-line supervised classifier]: https://en.wikipedia.org/wiki/Online_machine_learning
+[Curriculum Vitae]: https://davidsbatista.github.io/about/dsbatista-cv.en.pdf
+
