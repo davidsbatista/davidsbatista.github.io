@@ -21,6 +21,7 @@ I'm interested in the following research topics:
 * Machine Learning
 * Information Extraction
 * Big Data
+* Sentiment Analysis
 
 I'm also a Ph.D. candidate at [Instituto Superior Técnico] under the supervision of [Professor Mário Jorge Gaspar da Silva]. My thesis deals with large-scale [semantic relationship extraction] from document collections (e.g., newspapers archives, scientific articles).
 
