@@ -12,6 +12,7 @@ share: false
 ---
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+
 Version: GnuPG v1
 
 mQINBFa4dfYBEADYG+DJpLb1ZZEMC9Nhm/sDWQmLxLJGlz5Zm0BCEbZx8DnC7dFX
