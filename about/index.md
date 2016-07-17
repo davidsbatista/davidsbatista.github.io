@@ -21,7 +21,7 @@ Before, I was a master student at [XLDB], my [master thesis (in Portuguese)] con
 I graduated from [Faculty of Sciences], [University of Lisbon], and between 2005 and 2006 I did two semesters as an exchange student at the [Karlsruhe Institute of Technology (KIT)] (former Universität Karlsruhe) under the Erasmus program. Before enrolling in my master, I worked as a software developer for [Nokia Siemens Networks].
 
 [Nokia Siemens Networks]: https://networks.nokia.com/
-[crawl of the Portuguese Web]: http://dmir.inesc-id.pt/project/WPT_05_in_English
+[crawl of the Portuguese Web]: http://davidsbatista.github.io/publications/WPT05_fala2010.pdf
 [INESC-ID]: http://www.inesc-id.pt
 [Instituto Superior Técnico]: http://www.tecnico.ulisboa.pt/
 [Professor Mário Jorge Gaspar da Silva]: http://web.tecnico.ulisboa.pt/mario.gaspar.silva/

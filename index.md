@@ -25,6 +25,12 @@ I have a strong interested in the following topics:
 
 Currently I'm working at [HelloFresh AG] in Berlin.
 
+[PGP public key]
+
+[SSH public key]
+
 [Curriculum Vitae]: https://davidsbatista.github.io/about/dsbatista-cv.en.pdf
 [Background]: /about/
-[HelloFresh AG]:  http://www.hellofresh.de
+[HelloFresh AG]: http://www.hellofresh.de
+[PGP public key]: mykey.asc
+[SSH public key]: id_rsa.pub
