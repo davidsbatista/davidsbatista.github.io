@@ -19,7 +19,7 @@ I have a strong interested in the following topics:
 
 * Natural Language Processing
 * Machine Learning
-* Information Extraction (e.g.: Named-Entity Recognition, Relationship Extraction, etc.)
+* Information Extraction (e.g.: Named-Entity Recognition, Relationship Extraction)
 * Aspect-based Sentiment Analysis
 * Big Data
 
