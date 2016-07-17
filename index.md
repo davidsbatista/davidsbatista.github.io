@@ -13,27 +13,18 @@ title: About myself
 </figure>
 -->
 
-I'm a computer science researcher at [INESC-ID],  I love to play with data and extract knowledge from large volumes of datasets, be they structured or unstructured, text or numbers. You can see my [Curriculum Vitae] for more details. 
+I love to play with data and extract knowledge from large volumes of datasets, be they structured or unstructured, text or numbers. You can see my [Curriculum Vitae] for more details, or check the [Background] section.
 
-I'm interested in the following research topics:
+I have a strong interested in the following topics:
 
 * Natural Language Processing
 * Machine Learning
-* Information Extraction
+* Information Extraction (e.g.:, Named-Entity Recognition, Relationship Extraction)
+* Aspect-based Sentiment Analysis
 * Big Data
-* Sentiment Analysis
 
-I'm also a Ph.D. candidate at [Instituto Superior Técnico] under the supervision of [Professor Mário Jorge Gaspar da Silva]. My thesis deals with large-scale [semantic relationship extraction] from document collections (e.g., newspapers archives, scientific articles).
+Currently I'm working at [HelloFresh AG] in Berlin.
 
-My proposal consists of extracting relationships with an [on-line supervised classifier] based on [min-hash] and [locality sensitive hashing], and generating training data for this classifier by a bootstrapping approach relying on distributional word representations (i.e. [word embeddings]).
-
-[Instituto Superior Técnico]: http://www.tecnico.ulisboa.pt/
-[Professor Mário Jorge Gaspar da Silva]: http://web.tecnico.ulisboa.pt/mario.gaspar.silva/
-[INESC-ID]: http://www.inesc-id.pt
-[min-hash]: https://en.wikipedia.org/wiki/MinHash
-[word embeddings]: https://en.wikipedia.org/wiki/Word_embedding
-[locality sensitive hashing]: https://en.wikipedia.org/wiki/Locality-sensitive_hashing
-[semantic relationship extraction]: https://en.wikipedia.org/wiki/Relationship_extraction
-[on-line supervised classifier]: https://en.wikipedia.org/wiki/Online_machine_learning
 [Curriculum Vitae]: https://davidsbatista.github.io/about/dsbatista-cv.en.pdf
-
+[Background]: /about/
+[HelloFresh AG]:  http://www.hellofresh.de
