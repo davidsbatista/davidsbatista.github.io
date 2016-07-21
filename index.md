@@ -34,4 +34,4 @@ Currently I'm working at [HelloFresh AG] in Berlin.
 [HelloFresh AG]: http://www.hellofresh.de
 [PGP public key]: mykey.asc
 [SSH public key]: id_rsa.pub
-[Ph.D. in Natural Laguange Processing and Machine Learning]: http://davidsbatista.github.io/publications/dsbatista-phd-tehsis-2016.pdf
+[Ph.D. in Natural Laguange Processing and Machine Learning]: http://davidsbatista.github.io/publications/dsbatista-phd-thesis-2016.pdf
