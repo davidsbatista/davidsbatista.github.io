@@ -13,7 +13,7 @@ title: About myself
 </figure>
 -->
 
-I love to play with data and extract knowledge from large volumes of datasets, be they structured or unstructured, numbers or text. I hold a [Ph.D. in Natural Laguange Processing and Machine Learning], you can see my [Curriculum Vitae] for more details, or check the [Background] section.
+I love to play with data and extract knowledge from large volumes of data, be it structured or unstructured, numbers or text. I hold a [Ph.D. in Natural Laguange Processing and Machine Learning], you can see my [Curriculum Vitae] for more details, or check the [Background] section.
 
 I have a strong interested in the following topics:
 
