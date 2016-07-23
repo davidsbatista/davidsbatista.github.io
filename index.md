@@ -13,7 +13,7 @@ title: About myself
 </figure>
 -->
 
-I hold a [Ph.D. in Natural Laguange Processing and Machine Learning] and I love to play with data and extract knowledge from large volumes of datasets, be they structured or unstructured, text or numbers. You can see my [Curriculum Vitae] for more details, or check the [Background] section.
+I love to play with data and extract knowledge from large volumes of data, be it structured or unstructured, numbers or text. I hold a [Ph.D. in Natural Laguange Processing and Machine Learning], you can see my [Curriculum Vitae] for more details, or check the [Background] section.
 
 I have a strong interested in the following topics:
 
@@ -34,4 +34,4 @@ Currently I'm working at [HelloFresh AG] in Berlin.
 [HelloFresh AG]: http://www.hellofresh.de
 [PGP public key]: mykey.asc
 [SSH public key]: id_rsa.pub
-[Ph.D. in Natural Laguange Processing and Machine Learning]: http://davidsbatista.github.io/publications/dsbatista-phd-tehsis-2016.pdf
+[Ph.D. in Natural Laguange Processing and Machine Learning]: http://davidsbatista.github.io/publications/dsbatista-phd-thesis-2016.pdf
