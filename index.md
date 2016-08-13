@@ -15,10 +15,10 @@ title: About myself
 
 I love to play with data and extract knowledge from large volumes of data, be it structured or unstructured, numbers or text. I hold a [Ph.D. in Natural Laguange Processing and Machine Learning], you can see my [Curriculum Vitae] for more details, or check the [Background] section.
 
-I have a strong interested in the following topics:
+I have a strong interest in the following topics:
 
 * Natural Language Processing
-* Machine Learning
+* Machine Learning and Deep Learning
 * Information Extraction (e.g.: Named-Entity Recognition, Relationship Extraction)
 * Aspect-based Sentiment Analysis
 * Big Data
