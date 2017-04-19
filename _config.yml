@@ -1,19 +1,8 @@
-# Site wide configuration
-
-title:            Home
-locale:           en_US
-url:              
-
-
 # Jekyll configuration
 
 permalink:   /:categories/:title/
 markdown:    kramdown
 #highlighter: rouge 
-
-sass:
-  sass_dir: _sass
-  style: compressed
 
 gems:
   - jekyll-sitemap
