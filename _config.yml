@@ -10,12 +10,15 @@ url:
 permalink:   /:categories/:title/
 markdown:    kramdown
 #highlighter: rouge 
+
 sass:
   sass_dir: _sass
   style: compressed
+
 gems:
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-redirect-from
 
 kramdown:
   auto_ids: true
