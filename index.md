@@ -1,3 +1,3 @@
 ---
-redirect_to: "http://davidsbatista.net"
+redirect_to: "http://www.davidsbatista.net"
 ---
